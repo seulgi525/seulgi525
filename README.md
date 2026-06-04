@@ -1,38 +1,59 @@
-## 안녕하세요, 이슬기입니다 👋
+안녕하세요. 현업 경험을 데이터 인사이트로 연결하는 데이터 분석가 이슬기입니다.  
+이커머스, 플랫폼, 데이터 검수 분야에서 약 4년간 근무하며 다양한 데이터를 다뤄왔습니다. 현재는 Python과 SQL을 기반으로 채용 데이터, 고객 행동 데이터, 공공데이터 분석 프로젝트를 수행하며 데이터 기반 문제 해결 역량을 키우고 있습니다.
 
-이커머스(위메프)·플랫폼(야놀자·틱톡코리아)·데이터 검수(모디엠)까지  
-다양한 운영 현장에서 3년 9개월 일하며 데이터를 직접 다뤄왔습니다.  
-지금은 부트캠프를 통해 데이터 분석가로 전환하고 있습니다.
-
----
-
-### 🛠 기술 스택
-
-`Python` `pandas` `SQL` `Selenium` `BeautifulSoup`  
-`텍스트마이닝` `감성분석` `matplotlib` `seaborn` `Power BI` `Streamlit`
-
-**자격증** SQLD · ITQ 한글/엑셀 A · 전산세무 2급
+> **현업 경험을 데이터 인사이트로 연결하는 데이터 분석가**
 
 ---
 
-### 📂 프로젝트
+### 🛠 Tech Stack
 
-| 프로젝트 | 키워드 | 링크 |
-|---|---|---|
-| 취업지원서비스 — 채용공고 × 기업리뷰 교차분석 | 텍스트마이닝 · 감성분석 · Streamlit | [→ repo](https://github.com/seulgi525/job-support-service) |
-| 서울시 생애주기별 사회적 고립 위험지역 분석 | 공공데이터 · 복합지수 · 공간시각화 | [→ repo](https://github.com/seulgi525/seoul-social-isolation) |
-| 공급망 배송 지연 리스크 스코어링 | XGBoost · Streamlit · ML | [→ repo](https://github.com/seulgi525/supply-chain-delay-risk) |
-| 이커머스 고객 행동 분석 — RFM & 코호트 | pandas · matplotlib | [→ repo](https://github.com/seulgi525/ecommerce-customer-analysis) |
-| 웹크롤링 서비스 — 오픈마켓 & SNS 자동화 | Selenium · Vercel 배포 | [→ repo](https://github.com/seulgi525/crawling-site) |
+**Language & Analysis**
+`Python (Pandas, NumPy)` `SQL` `Text Mining` `Sentiment Analysis`
+
+**Data Collection**
+`Selenium` `BeautifulSoup`
+
+**Visualization**
+`Matplotlib` `Seaborn` `Power BI` `Streamlit`
 
 ---
 
-### 🌐 포트폴리오
+### 📜 Certification
+
+`SQLD` `전산세무 2급` `ITQ 한글 A` `ITQ 엑셀 A`
+
+---
+
+### 📂 Projects
+
+**취업지원 서비스**  
+채용공고와 기업리뷰를 교차 분석하여 장기 재직 가능성이 높은 기업을 추천하는 서비스  
+`Text Mining` `Sentiment Analysis` `Streamlit` → [repo](https://github.com/seulgi525/job-support-service)
+
+**서울시 생애주기별 사회적 고립 위험지역 분석**  
+공공데이터를 활용한 복합지수 산출 및 공간 기반 위험지역 분석  
+`Python` `GIS Analysis` `Visualization` → [repo](https://github.com/seulgi525/seoul-social-isolation)
+
+**공급망 배송 지연 리스크 스코어링**  
+배송 지연 가능성을 예측하는 머신러닝 기반 위험도 예측 모델 구축  
+`XGBoost` `Machine Learning` `Streamlit` → [repo](https://github.com/seulgi525/supply-chain-delay-risk)
+
+**이커머스 고객 행동 분석**  
+RFM 및 코호트 분석을 통한 고객 세분화 및 구매 패턴 분석  
+`Pandas` `Matplotlib` → [repo](https://github.com/seulgi525/ecommerce-customer-analysis)
+
+**웹 크롤링 자동화 서비스**  
+오픈마켓 및 SNS 데이터 수집 자동화 시스템 구축  
+`Selenium` `BeautifulSoup` → [repo](https://github.com/seulgi525/crawling-site)
+
+---
+
+### 🌐 Portfolio
 
 **[seulgi525.github.io](https://seulgi525.github.io)**
 
 ---
 
-### 📬 연락처
+### 📬 Contact
 
 `sulegi525@naver.com`
