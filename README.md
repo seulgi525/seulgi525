@@ -34,14 +34,6 @@
 공공데이터를 활용한 복합지수 산출 및 공간 기반 위험지역 분석  
 `Python` `GIS Analysis` `Visualization` → [repo](https://github.com/seulgi525/seoul-social-isolation)
 
-**공급망 배송 지연 리스크 스코어링**  
-배송 지연 가능성을 예측하는 머신러닝 기반 위험도 예측 모델 구축  
-`XGBoost` `Machine Learning` `Streamlit` → [repo](https://github.com/seulgi525/supply-chain-delay-risk)
-
-**이커머스 고객 행동 분석**  
-RFM 및 코호트 분석을 통한 고객 세분화 및 구매 패턴 분석  
-`Pandas` `Matplotlib` → [repo](https://github.com/seulgi525/ecommerce-customer-analysis)
-
 **웹 크롤링 자동화 서비스**  
 오픈마켓 및 SNS 데이터 수집 자동화 시스템 구축  
 `Selenium` `BeautifulSoup` → [repo](https://github.com/seulgi525/crawling-site)
