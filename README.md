@@ -42,9 +42,9 @@
 공개 데이터셋으로 지역 특성과 주택 중위가격의 관계를 분석하고 회귀모형 비교·SHAP 해석 수행  
 `Python` `Regression` `GridSearchCV` `SHAP` → [repo](https://github.com/seulgi525/california-housing-price-prediction)
 
-**웹 크롤링 자동화 서비스**  
-오픈마켓 및 SNS 데이터 수집 자동화 시스템 구축  
-`Selenium` `BeautifulSoup` → [repo](https://github.com/seulgi525/crawling-site)
+**오픈마켓 · SNS 데이터 수집 자동화**  
+네이버쇼핑·쿠팡·G마켓·인스타그램 등 7개 플랫폼 데이터를 자동 수집해 MySQL에 적재하고, 수집 흐름을 웹 화면으로 제공  
+`Selenium` `BeautifulSoup` `MySQL` `Vercel` → [repo](https://github.com/seulgi525/crawling-site) · [라이브 데모](https://crawling-site.vercel.app)
 
 ---
 
