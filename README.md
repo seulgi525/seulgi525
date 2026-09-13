@@ -26,7 +26,7 @@
 
 ### 📂 Projects
 
-**취업지원 서비스**  
+**취업지원서비스**  
 채용공고와 기업리뷰를 교차 분석하여 장기 재직 가능성이 높은 기업을 추천하는 서비스  
 `Text Mining` `Sentiment Analysis` `Streamlit` → [repo](https://github.com/seulgi525/job-support-service)
 
@@ -40,7 +40,7 @@
 
 **California Housing 주택가격 예측**  
 공개 데이터셋으로 지역 특성과 주택 중위가격의 관계를 분석하고 회귀모형 비교·SHAP 해석 수행  
-`Python` `회귀분석` `GridSearchCV` `SHAP` → [repo](https://github.com/seulgi525/california-housing-price-prediction)
+`Python` `Regression` `GridSearchCV` `SHAP` → [repo](https://github.com/seulgi525/california-housing-price-prediction)
 
 **웹 크롤링 자동화 서비스**  
 오픈마켓 및 SNS 데이터 수집 자동화 시스템 구축  
