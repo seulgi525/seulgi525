@@ -34,6 +34,10 @@
 공공데이터를 활용한 복합지수 산출 및 공간 기반 위험지역 분석  
 `Python` `GIS Analysis` `Visualization` → [repo](https://github.com/seulgi525/seoul-social-isolation)
 
+**서울 지하철 이용 KPI 자동화**  
+공공데이터 25개월치를 수집·검증·집계해 Google Sheets 대시보드를 자동 갱신하는 월간 파이프라인  
+`Python` `pandas` `Google Sheets API` `pytest` → [repo](https://github.com/seulgi525/subway-kpi-automation) · [대시보드](https://docs.google.com/spreadsheets/d/1NCvOkVP5J6M92yMxxWVBcjIRKJqIMLhcrtaLXoV1y0U/edit)
+
 **California Housing 주택가격 예측**  
 공개 데이터셋으로 지역 특성과 주택 중위가격의 관계를 분석하고 회귀모형 비교·SHAP 해석 수행  
 `Python` `회귀분석` `GridSearchCV` `SHAP` → [repo](https://github.com/seulgi525/california-housing-price-prediction)
