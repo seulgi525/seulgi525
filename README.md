@@ -43,8 +43,8 @@
 `Python` `Regression` `GridSearchCV` `SHAP` → [repo](https://github.com/seulgi525/california-housing-price-prediction)
 
 **오픈마켓 · SNS 데이터 수집 자동화**  
-네이버쇼핑·쿠팡·G마켓·인스타그램 등 7개 플랫폼 데이터를 자동 수집해 MySQL에 적재하고, 수집 흐름을 웹 화면으로 제공  
-`Selenium` `BeautifulSoup` `MySQL` `Vercel` → [repo](https://github.com/seulgi525/crawling-site) · [라이브 데모](https://crawling-site.vercel.app)
+네이버쇼핑·쿠팡·G마켓·인스타그램 등 7개 플랫폼 데이터를 자동 수집해 CSV·Excel 파일로 정리하고, 수집 흐름을 웹 화면으로 제공  
+`Selenium` `BeautifulSoup` `openpyxl` `Vercel` → [repo](https://github.com/seulgi525/crawling-site) · [라이브 데모](https://crawling-site.vercel.app)
 
 ---
 
