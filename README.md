@@ -30,6 +30,10 @@
 채용공고와 기업리뷰를 교차 분석하여 장기 재직 가능성이 높은 기업을 추천하는 서비스  
 `Text Mining` `Sentiment Analysis` `Streamlit` → [repo](https://github.com/seulgi525/job-support-service)
 
+**화장품 쇼핑몰 장바구니 7일 전환 분석**  
+담는 시점의 정보만으로 7일 내 구매 여부를 분류하고, 무엇이 전환과 연결되는지 로지스틱 회귀로 해석한 2인 팀 프로젝트  
+`Python` `statsmodels` `scikit-learn` `Logistic Regression` → [repo](https://github.com/seulgi525/cosmetics-cart-conversion) · [보고서](https://github.com/seulgi525/cosmetics-cart-conversion/blob/main/docs/0928_이슬기_배지환_장바구니전환분석_최종보고서_2차피드백반영본_제출이후수정본.pdf)
+
 **서울시 생애주기별 사회적 고립 위험지역 분석**  
 공공데이터를 활용한 복합지수 산출 및 공간 기반 위험지역 분석  
 `Python` `GIS Analysis` `Visualization` → [repo](https://github.com/seulgi525/seoul-social-isolation)
